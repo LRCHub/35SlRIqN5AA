@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "クレイジー・ビート",
+  "base_artist": "さつき が てんこもり",
+  "createdAt": "2025-12-28T04:41:09.627711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クレイジー・ビート",
+      "artist": "さつき が てんこもり",
+      "has_synced": true,
+      "path": "select/01_クレイジー・ビート_さつき_が_てんこもり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クレイジー・ビート",
+      "artist": "さつき が てんこもり",
+      "has_synced": false,
+      "path": "select/pl_01_クレイジー・ビート_さつき_が_てんこもり.txt"
+    }
+  ]
+}
